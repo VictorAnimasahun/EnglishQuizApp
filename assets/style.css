@@ -7,15 +7,14 @@
     }
 
     header {
-		background: #64b5f6; /* light blue */
-		color: white;
-		padding: 20px;
-		text-align: center;
-		position: sticky;
-		top: 0;
-		z-index: 1000; /* keeps it above other content */
-		background-color: #fdfdfd; /* or your light blue/white brand colors */
-		box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* subtle shadow */
+      background: #64b5f6; /* light blue */
+      color: white;
+      padding: 20px;
+      text-align: center;
+	  position: sticky;
+	  top: 0;
+	  z-index: 1000; /* keeps it above other content */
+	  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* subtle shadow */
     }
 
     .container {
